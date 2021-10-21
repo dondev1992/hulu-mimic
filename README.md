@@ -1,3 +1,31 @@
+# Hulu-Mimic
+
+A Hulu clone made using Next.js and Tailwind CSS.
+
+## Description
+
+This project is a simplified front page clone of Hulu. It was created with Next.js and Tailwind CSS. You are able to create an account and purchase a subscription and pay for it using Stripe Merchant Serivces. It uses The MovieDB Api to populate content for the movie genres and display details. Feel free to contribute!
+
+
+## Demo
+
+The app is deployed using Firebase [Here](https://hulu-mimic-8dg51yjuf-dondev1992.vercel.app/)
+
+
+
+### Dependencies
+
+* Next.js
+* Tailwind CSS
+* Fetch API
+
+
+### Installing
+
+Clone the repo in your terminal writting:
+
+$ git clone https://github.com/dondev1992/hulu-mimic.git
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
