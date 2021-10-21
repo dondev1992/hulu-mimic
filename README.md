@@ -9,7 +9,7 @@ This project is a simplified front page clone of Hulu. It was created with Next.
 
 ## Demo
 
-The app is deployed using Vercel [Here](https://hulu-mimic-8dg51yjuf-dondev1992.vercel.app/)
+The PWA is deployed using Vercel [Here](https://hulu-mimic-8dg51yjuf-dondev1992.vercel.app/)
 
 
 
