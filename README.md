@@ -4,7 +4,7 @@ A Hulu clone made using Next.js and Tailwind CSS.
 
 ## Description
 
-This project is a simplified front page clone of Hulu. It was created with Next.js and Tailwind CSS. You are able to create an account and purchase a subscription and pay for it using Stripe Merchant Serivces. It uses The MovieDB Api to populate content for the movie genres and display details. Feel free to contribute!
+This project is a simplified front page clone of Hulu. It was created with Next.js and Tailwind CSS. You can nclick on the different genres that will generate movie posters in a flex grid format. It uses The MovieDB Api to populate content for the movie genres and display details. Feel free to contribute!
 
 
 ## Demo
