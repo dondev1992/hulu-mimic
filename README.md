@@ -13,6 +13,10 @@ The app is deployed using Vercel [Here](https://hulu-mimic-8dg51yjuf-dondev1992.
 
 
 
+https://user-images.githubusercontent.com/79601799/138333727-7e193093-a356-436d-a0d4-7570dfaaddbe.mp4
+
+
+
 ### Dependencies
 
 * Next.js
